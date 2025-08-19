@@ -1,2 +1,0 @@
-# Cryptix - [ACM Cyber Projects]
-
